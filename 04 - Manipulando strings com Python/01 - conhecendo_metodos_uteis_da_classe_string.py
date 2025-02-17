@@ -7,7 +7,7 @@ print(curso.strip()+'.')
 print(curso.lstrip()+'.')
 print(curso.rstrip()+'.')
 
-print(curso.center(11, '#')+'.')
-print(curso.center(11)+'.')
+print(curso.center(50, '#')+'.')
+print(curso.center(50)+'.')
 
 print(".".join(curso))
